@@ -15,7 +15,7 @@ Author Email: ashwinn138@gmail.com
 
 - Copy the FileOrganizer.py to the desired location where we want to organise the folders.
 
-- After that double click on the Setup.py file. That's it.
+- After that double click on the FileOrganizer.py file. That's it.
 
 - We can run the script using command line too...
 
