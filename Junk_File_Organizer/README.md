@@ -13,7 +13,7 @@ Author Email: ashwinn138@gmail.com
 
 ** How to run
 
-- Copy the setup.py to the desired location where we want to organise the folders.
+- Copy the FileOrganizer.py to the desired location where we want to organise the folders.
 
 - After that double click on the Setup.py file. That's it.
 
